@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "designation": "username",
+      "name": "username",
+      "type": "T",
+      "value": ""
+    },
+    {
+      "designation": "password",
+      "name": "password",
+      "type": "P",
+      "value": ""
+    }
+  ],
+  "notesPlain": "",
+  "passwordHistory": [],
+  "sections": [
+    {
+      "fields": [
+        {
+          "inputTraits": {
+            "autocapitalization": "none",
+            "autocorrection": "no"
+          },
+          "k": "concealed",
+          "n": "",
+          "t": "",
+          "v": ""
+        }
+      ],
+      "name": "add more",
+      "title": ""
+    }
+  ]
+}
